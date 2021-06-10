@@ -1,0 +1,23 @@
+{
+    "StackBox": {
+        "checkpoints": [
+            {
+                "steps": 200020,
+                "file_path": "results\\=run02\\StackBox\\StackBox-200020.onnx",
+                "reward": 5.098982751369476,
+                "creation_time": 1622657171.8079367
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 200020,
+            "file_path": "results\\=run02\\StackBox.onnx",
+            "reward": 5.098982751369476,
+            "creation_time": 1622657171.8079367
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.2.0",
+        "mlagents_version": "0.25.1",
+        "torch_version": "1.8.1+cpu"
+    }
+}
